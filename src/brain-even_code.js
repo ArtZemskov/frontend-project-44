@@ -1,4 +1,4 @@
-import startGame from '../src/gameProcess.js';
+import startGame from '../src/index.js';
 import getRandomNumber from '../src/randomNumber.js';
 
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
