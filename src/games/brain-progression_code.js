@@ -20,7 +20,7 @@ const gameLogic = () => {
   const correctAnswer = String(progression[randomSpace]);
   progression[randomSpace] = '..';
   const question = progression.join(' ');
-  
+
   return [question, correctAnswer];
 };
 

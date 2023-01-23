@@ -18,6 +18,6 @@ const startGame = (description, gameLogic) => {
       return;
     }
   }
-  return console.log(`Congratulations, ${userName}`);
+  console.log(`Congratulations, ${userName}`);
 };
 export default startGame;
