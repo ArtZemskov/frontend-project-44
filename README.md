@@ -4,4 +4,4 @@
 
 Game reviews
 1) "Is Even Number?"
-https://asciinema.org/a/NghcEejjqfwaHJViC3LYZfTpo
+[![asciicast](https://asciinema.org/a/NghcEejjqfwaHJViC3LYZfTpo.svg)](https://asciinema.org/a/NghcEejjqfwaHJViC3LYZfTpo)
