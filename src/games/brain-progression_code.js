@@ -12,7 +12,7 @@ const getProgression = (firstNum, step) => {
   return progression;
 };
 
-const gameLogic = () => {
+const getQuestionAndAnswer = () => {
   const firstNum = getRandomNumber(0, 50);
   const step = getRandomNumber(2, 10);
   const progression = getProgression(firstNum, step);
@@ -25,6 +25,6 @@ const gameLogic = () => {
 };
 
 const runProgression = () => {
-  startGame(description, gameLogic);
+  startGame(description, getQuestionAndAnswer);
 };
 export default runProgression;

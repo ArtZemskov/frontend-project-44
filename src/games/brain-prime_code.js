@@ -11,13 +11,13 @@ const isPrime = (num) => {
   return true;
 };
 
-const gameLogic = () => {
+const getQuestionAndAnswer = () => {
   const question = getRandomNumber(0, 100);
   const correctAnswer = isPrime(question) ? 'yes' : 'no';
   return [question, correctAnswer];
 };
 
 const runPrime = () => {
-  startGame(description, gameLogic);
+  startGame(description, getQuestionAndAnswer);
 };
 export default runPrime;

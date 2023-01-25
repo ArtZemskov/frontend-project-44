@@ -12,7 +12,7 @@ const gcd = (num1, num2) => {
   return num1;
 };
 
-const gameLogic = () => {
+const getQuestionAndAnswer = () => {
   const num1 = getRandomNumber(0, 100);
   const num2 = getRandomNumber(0, 50);
   const question = `${num1} ${num2}`;
@@ -21,6 +21,6 @@ const gameLogic = () => {
 };
 
 const runGcd = () => {
-  startGame(description, gameLogic);
+  startGame(description, getQuestionAndAnswer);
 };
 export default runGcd;

@@ -4,7 +4,7 @@ import getRandomNumber from '../randomNumber.js';
 const description = 'What is the result of the expression?';
 const collOfOperators = ['+', '-', '*'];
 
-const gameLogic = () => {
+const getQuestionAndAnswer = () => {
   const randomOperator = collOfOperators[Math.floor(Math.random() * collOfOperators.length)];
   const num1 = getRandomNumber(0, 25);
   const num2 = getRandomNumber(0, 25);
@@ -27,6 +27,6 @@ const gameLogic = () => {
 };
 
 const runCalc = () => {
-  startGame(description, gameLogic);
+  startGame(description, getQuestionAndAnswer);
 };
 export default runCalc;
