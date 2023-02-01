@@ -26,7 +26,7 @@ ___
 
 ## *"Is even number?"*
    
-[![asciicast](https://asciinema.org/a/NghcEejjqfwaHJViC3LYZfTpo.svg)](https://asciinema.org/a/NghcEejjqfwaHJViC3LYZfTpo)
+[![asciicast](https://asciinema.org/a/hFID64IcWkMfQdcWzGUhLGLv0.svg)](https://asciinema.org/a/hFID64IcWkMfQdcWzGUhLGLv0)
 
 ## *"Calc"*
 
