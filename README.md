@@ -30,16 +30,16 @@ ___
 
 ## *"Calc"*
 
-[![asciicast](https://asciinema.org/a/xewd77LtPxBRqNpO8QHmLKedR.svg)](https://asciinema.org/a/xewd77LtPxBRqNpO8QHmLKedR)
+[![asciicast](https://asciinema.org/a/3z4TpJnmPUivaR7wxkxed7L0j.svg)](https://asciinema.org/a/3z4TpJnmPUivaR7wxkxed7L0j)
 
 ## *"GCD - greatest common divisor"*
 
-[![asciicast](https://asciinema.org/a/cjkADUPUz2BxSwQc17Ud4Pw8F.svg)](https://asciinema.org/a/cjkADUPUz2BxSwQc17Ud4Pw8F)
+[![asciicast](https://asciinema.org/a/m7QNRUtomSLiUlldHPBKj40NM.svg)](https://asciinema.org/a/m7QNRUtomSLiUlldHPBKj40NM)
 
 ## *"Progression"*
 
-[![asciicast](https://asciinema.org/a/KoWJEMeatkuW3lkYoeggXddO6.svg)](https://asciinema.org/a/KoWJEMeatkuW3lkYoeggXddO6)
+[![asciicast](https://asciinema.org/a/OGys51L5al5ijyOcmtdyWUIHu.svg)](https://asciinema.org/a/OGys51L5al5ijyOcmtdyWUIHu)
 
 ## *"is Prime number"*
 
-[![asciicast](https://asciinema.org/a/9dSrnFe9ZvzoiNZclZnIHCtYN.svg)](https://asciinema.org/a/9dSrnFe9ZvzoiNZclZnIHCtYN)
+[![asciicast](https://asciinema.org/a/5qREv942UKGdLCU7rHPsxayXm.svg)](https://asciinema.org/a/5qREv942UKGdLCU7rHPsxayXm)
